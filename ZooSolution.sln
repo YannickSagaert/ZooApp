@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Wpf", "Zoo.Wpf\Zoo.Wpf.csproj", "{2E8061B2-1500-4F6E-B4DC-398F1CB45554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.lib", "Zoo.lib\Zoo.lib.csproj", "{675C83A5-DE37-4E5B-A2DC-17BFF87C7A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Cons", "Zoo.Cons\Zoo.Cons.csproj", "{467275FF-5108-4EEC-830D-EE6E07F95700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8061B2-1500-4F6E-B4DC-398F1CB45554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8061B2-1500-4F6E-B4DC-398F1CB45554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8061B2-1500-4F6E-B4DC-398F1CB45554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8061B2-1500-4F6E-B4DC-398F1CB45554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675C83A5-DE37-4E5B-A2DC-17BFF87C7A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675C83A5-DE37-4E5B-A2DC-17BFF87C7A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675C83A5-DE37-4E5B-A2DC-17BFF87C7A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675C83A5-DE37-4E5B-A2DC-17BFF87C7A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467275FF-5108-4EEC-830D-EE6E07F95700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467275FF-5108-4EEC-830D-EE6E07F95700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467275FF-5108-4EEC-830D-EE6E07F95700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467275FF-5108-4EEC-830D-EE6E07F95700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F3E129-FC4C-41E0-B2F4-5AE5C8CAED6C}
+	EndGlobalSection
+EndGlobal
